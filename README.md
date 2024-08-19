@@ -26,7 +26,7 @@ To explore or modify the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/survey-form.git
+   git clone https://github.com/inquaid/survey-form.git
    ```
 2. Navigate to the project directory:
    ```bash
